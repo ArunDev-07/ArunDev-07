@@ -1,12 +1,13 @@
 ## Hi there 👋 It's me Arun
 
-Java Full Stack Developer  
+**Java Full Stack Developer**  
 <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
 
 - 🔭 Here's my [portfolio](https://portfolio07-sepia.vercel.app/)                                                 
 - 🌱 I’m currently learning DSA and integrating AI into my workflow
 - 🎓 Engineering at Hindusthan College of Engineering and Technology (HICET)  
 - ⚙️ I work with both **Manual Development + AI-assisted tools**  
+- 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/1fGWQ2EZXiM8r6tU_gcjF7v0HBVkAct7E/view)
 
 - Social Presence  
    <br /> 
@@ -53,4 +54,6 @@ Java Full Stack Developer
 
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunDev-07&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Arun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/2b855b80-2376-4ee3-8454-1f1deacef8a2" /><br/>
+
+[![Arun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDe07&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
