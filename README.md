@@ -54,6 +54,4 @@
 
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunDev-07&theme=dark&show_icons=true&&hide=issues,contribs)
 
-<img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/2b855b80-2376-4ee3-8454-1f1deacef8a2" /><br/>
-
 [![Arun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDe07&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
