@@ -50,7 +50,7 @@
 
 ### 📊 LeetCode & GitHub Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arun_fsd07?theme=dark&font=Roboto)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Arun_fsd07?theme=dark&font=Hammersmith%20One)
 
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunDev-07&theme=dark&show_icons=true&&hide=issues,contribs)
 
