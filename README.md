@@ -19,6 +19,7 @@
 
 ### I code in
 <p>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img width="50" height="50" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
@@ -28,7 +29,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 </p>
 
 ---
