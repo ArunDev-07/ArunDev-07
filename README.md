@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning DSA and integrating AI into my workflow
 - 🎓 Engineering at Hindusthan College of Engineering and Technology (HICET)  
 - ⚙️ I work with both **Manual Development + AI-assisted tools**  
-- 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/13YVCf9yQmXYc-P-nghYEr6hVswlvnTBg/view?usp=drive_link)
+- 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
 
 - Social Presence  
    <br /> 
