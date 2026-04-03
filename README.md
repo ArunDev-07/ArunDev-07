@@ -1,23 +1,32 @@
 ## Hi there 👋 It's me Arun
 
-**Java Full Stack Developer**  
-<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
+**Java Full Stack Developer** <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
 
-- 🔭 Here's my [portfolio](https://arun-g.vercel.app/)                                                 
-- 🌱 I’m currently learning DSA and integrating AI into my workflow
-- 🎓 Engineering at Hindusthan College of Engineering and Technology (HICET)  
-- ⚙️ I work with both **Manual Development + AI-assisted tools**  
-- 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
+### 🧠 Typing Animation
 
-- Social Presence  
-   <br /> 
-   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)  
-   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunaakash675@gmail.com)  
-   [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr.tamizhan__07/)
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
+</p>
+
+* 🔭 Here's my [portfolio](https://arun-g.vercel.app/)
+
+* 🌱 I’m currently learning DSA and integrating AI into my workflow
+
+* 🎓 Engineering at Hindusthan College of Engineering and Technology (HICET)
+
+* ⚙️ I work with both **Manual Development + AI-assisted tools**
+
+* 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
+
+* Social Presence <br />
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunaakash675@gmail.com)
+  [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr.tamizhan__07/)
 
 ---
 
 ### I code in
+
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -35,6 +44,7 @@
 ---
 
 ### IDE and Tools I Use
+
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
@@ -49,10 +59,61 @@
 
 ---
 
-### 📊 LeetCode & GitHub Stats  
+# 🚀 Featured Projects
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Arun-G?theme=dark&font=Hammersmith%20One)
+### 🛒 Full Stack E-commerce Application
 
+* React + Spring Boot + MySQL
+* JWT Authentication
+* Razorpay Integration
+* Docker Deployment
 
+### 🎓 Course Registration System
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+* Spring Boot + React + MySQL
+* Role Based Authentication
+* 15+ REST APIs
+
+### 🎬 Movie Discovery App
+
+* React Native + Expo
+* TMDB API Integration
+* Mobile UI
+
+---
+
+# 💼 Experience
+
+### Full Stack Developer Intern
+
+**VDart | Trichy, Tamil Nadu**
+
+* Built Podcast Streaming Platform
+* Developed REST APIs
+* Managed 100+ Episodes
+* Debugged Production Issues
+
+---
+
+# 🏆 Achievements
+
+* 🏆 Top 10 Finalist — TechSprint Hackathon 2025
+* 💻 Solved 150+ LeetCode Problems
+* 🚀 Built Multiple Full Stack Projects
+
+---
+
+# 🎯 Current Focus
+
+* DSA Preparation
+* Spring Boot Projects
+* AI Integration
+* System Design
+
+---
+
+### 📊 LeetCode & GitHub Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Arun-G?theme=dark\&font=Hammersmith%20One)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07\&bg_color=141321\&color=a9fef7\&line=fe428e\&point=f8d847\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
