@@ -2,12 +2,10 @@
 
 **Java Full Stack Developer** <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
 
-### 🧠 Typing Animation
-
+### 🚀 About Me
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
 </p>
-
 * 🔭 Here's my [portfolio](https://arun-g.vercel.app/)
 
 * 🌱 I’m currently learning DSA and integrating AI into my workflow
