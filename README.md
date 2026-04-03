@@ -1,8 +1,11 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ArunDev-07&color=blue&style=for-the-badge)
+
 ## Hi there 👋 It's me Arun
 
 **Java Full Stack Developer** <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
 
 ### 🚀 About Me
+
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
 </p>
@@ -51,6 +54,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
 ### 🚀 Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -58,6 +62,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
+
 # 🚀 Featured Projects
 
 ### 🛒 Full Stack E-commerce Application
@@ -111,8 +116,11 @@
 
 ---
 
-### 📊 LeetCode & GitHub Stats
+# 📊 LeetCode & GitHub Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Arun-G?theme=dark\&font=Hammersmith%20One)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Arun-G?theme=dark&font=Hammersmith%20One)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07\&bg_color=141321\&color=a9fef7\&line=fe428e\&point=f8d847\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
