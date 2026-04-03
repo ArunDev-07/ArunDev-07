@@ -1,58 +1,126 @@
-## Hi there 👋 It's me Arun
+# 👋 Hi, I'm Arun
 
-**Java Full Stack Developer**  
-<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
+🚀 **Java Full Stack Developer | Spring Boot | React | MySQL | DSA Enthusiast**
 
-- 🔭 Here's my [portfolio](https://arun-g.vercel.app/)                                                 
-- 🌱 I’m currently learning DSA and integrating AI into my workflow
-- 🎓 Engineering at Hindusthan College of Engineering and Technology (HICET)  
-- ⚙️ I work with both **Manual Development + AI-assisted tools**  
-- 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
-
-- Social Presence  
-   <br /> 
-   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)  
-   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunaakash675@gmail.com)  
-   [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr.tamizhan__07/)
+<img align="right" width="350" height="260" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 ---
 
-### I code in
+## 👨‍💻 About Me
+
+- 🚀 Java Full Stack Developer  
+- 💡 Strong in **DSA & Problem Solving**  
+- 🌱 Currently learning **Advanced DSA & AI Integration**  
+- 🎓 Engineering at **Hindusthan College of Engineering and Technology (HICET)**  
+- ⚙️ Working with **Manual Development + AI-assisted tools**  
+
+---
+
+## 🌐 Portfolio & Resume
+
+- 🔭 **Portfolio:** https://arun-g.vercel.app/  
+- 📄 **Resume:** https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link  
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Course Registration System
+- Java + Spring Boot + React
+- Role-based system
+- REST APIs
+- MySQL database
+
+### 🔹 Full Stack E-commerce
+- Spring Boot Backend
+- React Frontend
+- JWT Authentication
+- MySQL Database
+
+### 🔹 DSA Java Repository
+- 150+ Problems
+- Interview Preparation
+- Java Solutions
+
+### 🔹 Portfolio Website
+- React + Tailwind
+- Responsive Design
+- Professional UI
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages & Frameworks
+
 <p>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img width="50" height="50" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=25Sjy8fKExYA&format=png&color=000000"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+<img height="50" width="50" src="https://img.icons8.com/officel/80/react.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/tailwind_css.png"/>
 </p>
 
 ---
 
-### IDE and Tools I Use
+# 🛠️ IDE & Tools
+
 <p>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img width="50" height="50" src="https://img.icons8.com/sf-black/64/github.png" alt="github"/>
-<img width="50" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/intellij-idea.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/docker.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+<img height="50" width="50" src="https://img.icons8.com/sf-black/64/github.png"/>
+<img height="50" width="50" src="https://img.icons8.com/dusk/64/postman-api.png"/>
 </p>
 
 ---
 
-### 📊 LeetCode & GitHub Stats  
+# 📊 GitHub Stats
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunDev-07&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Arun-G?theme=dark&font=Hammersmith%20One)
 
+---
 
+# 📈 GitHub Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-g-87515a36b/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunaakash675@gmail.com)  
+[![Instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.tamizhan__07/)
+
+---
+
+# 💡 Current Focus
+
+- 🔥 DSA Preparation  
+- 🚀 Spring Boot Projects  
+- ⚡ Full Stack Development  
+- 🤖 AI Integration  
+
+---
+
+# ⭐ Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=ArunDev-07&color=blue)
+
+---
+
+⭐ **Thanks for visiting my profile!**
