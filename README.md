@@ -10,7 +10,7 @@
 
 * 🔭 Here's my [portfolio](https://arun-g.vercel.app/)
 
-* 🌱 I’m currently learning DSA and integrating AI into my workflow
+* 🌱 I'm currently learning DSA and integrating AI into my workflow
 
 * 🎓 Engineering at Hindusthan College of Engineering and Technology (HICET)
 
@@ -22,6 +22,12 @@
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunaakash675@gmail.com)
   [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr.tamizhan__07/)
+
+---
+
+### 🎯 Career Objective
+
+> Computer Science student and aspiring **Java Full Stack Developer** with hands-on experience building **scalable web applications** using **Java, Spring Boot, React, MySQL, REST APIs, and AI Integration**. Seeking an **entry-level Software Engineer role** to develop secure, real-world, and AI-powered applications while strengthening **DSA, OOP, DBMS, and backend development** skills.
 
 ---
 
@@ -37,6 +43,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🤖 AI Skills
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AI Assisted Dev](https://img.shields.io/badge/AI--Assisted_Development-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
@@ -63,24 +79,40 @@
 
 # 🚀 Featured Projects
 
-### 🛒 Full Stack E-commerce Application
+### 🤖 AI Interview Preparation Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/AI-InterviewSystem)
 
-* React + Spring Boot + MySQL
-* JWT Authentication
-* Razorpay Integration
-* Docker Deployment
+**React · Spring Boot · MySQL · Spring AI · Groq API · JWT · Tailwind CSS**
 
-### 🎓 Course Registration System
+* Built a **full-stack AI-powered interview platform** simulating **4 interview rounds** — Aptitude, Communication, DSA, and HR — with AI-generated feedback, scoring, and optimal answers using **Groq API + Spring AI**
+* Developed a **resume-based voice technical interview module** — upload PDF resume → AI generates personalized questions → user answers via microphone → AI evaluates and asks follow-up questions
+* Implemented **interview proctoring** with 30-minute countdown timer, tab-switch detection, back-navigation handling, and auto-submit on violations
+* Built **DSA code analysis** with time complexity, space complexity, mistake detection, and optimization suggestions
+* Implemented **JWT authentication** with role-based access control — separate USER and ADMIN dashboards, interview results, submission tracking, and rankings stored in MySQL
 
-* Spring Boot + React + MySQL
-* Role Based Authentication
-* 15+ REST APIs
+---
 
-### 🎬 Movie Discovery App
+### 🛒 Full Stack E-Commerce Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/Ecommerce-backend)
 
-* React Native + Expo
-* TMDB API Integration
-* Mobile UI
+**React · Spring Boot · MySQL · Razorpay · Docker · JWT**
+
+* Built a **production-grade full-stack e-commerce platform** with product listing, search, filtering, cart management, order placement, and complete checkout workflow
+* Developed **30+ REST APIs** using Spring Boot covering products, categories, users, carts, orders, payments, and admin operations with layered Controller-Service-Repository architecture
+* Implemented **JWT authentication** and **role-based access control** with separate secure modules for users and admins
+* Integrated **Razorpay payment gateway** for real online payments and containerized the entire backend using **Docker**
+* Designed a relational MySQL schema with **8+ tables** handling users, products, categories, carts, orders, and payments
+
+---
+
+### 💼 Job Board Application
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/JobBoardApplication-Backend)
+
+**React · Spring Boot · MySQL**
+
+* Built a **full-stack job portal** with admin job management and user job browsing features
+* Implemented **job CRUD operations**, search, filtering, pagination, and job application workflow
+* Designed REST APIs using **Spring Boot** and managed relational data using **MySQL** with layered architecture
 
 ---
 
