@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYzbDRkaDNxcGl6M3B2enN1bzllanh2OGk4MnVpeXIyejlkNGpqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
 </p>
 
 * 🔭 Here's my [portfolio](https://arun-g.vercel.app/)
