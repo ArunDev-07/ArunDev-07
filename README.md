@@ -1,11 +1,13 @@
 ## Hi there 👋 It's me Arun
 
-**Java Full Stack Developer** <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d656469612f70344e4c7733493455306964692f67697068792e676966">
+<img align="right" width="350" height="260" alt="coding-gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYzbDRkaDNxcGl6M3B2enN1bzllanh2OGk4MnVpeXIyejlkNGpqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+
+**Java Full Stack Developer**
 
 ### 🚀 About Me
 
 <p align="left">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYzbDRkaDNxcGl6M3B2enN1bzllanh2OGk4MnVpeXIyejlkNGpqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
 </p>
 
 * 🔭 Here's my [portfolio](https://arun-g.vercel.app/)
@@ -16,7 +18,7 @@
 
 * ⚙️ I work with both **Manual Development + AI-assisted tools**
 
-* 📄 **Resume:**  [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
+* 📄 **Resume:** [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
 
 * Social Presence <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)
@@ -37,7 +39,7 @@
 
 ### 🎯 Career Objective
 
-> Computer Science student and aspiring **Java Full Stack Developer** with hands-on experience building **scalable web applications** using **Java, Spring Boot, React, MySQL, REST APIs, and AI Integration**. Seeking an **entry-level Software Engineer role** to develop secure, real-world, and AI-powered applications while strengthening **DSA, OOP, DBMS, and backend development** skills.
+> Computer Science student and aspiring **Java Full Stack Developer** with hands-on experience building **scalable web applications** using **Java, Spring Boot, React, MySQL, REST APIs, JWT, and AI Integration**. Seeking an **entry-level Software Engineer role** to develop secure, real-world, and AI-powered applications while strengthening **DSA, OOP, DBMS, and backend development** skills.
 
 ---
 
@@ -53,6 +55,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -97,6 +100,7 @@
 # 🚀 Featured Projects
 
 ### 🤖 AI Interview Preparation Platform
+
 [![Backend Repo](https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/AI-InterviewSystem-Backend)
 [![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/AI-InterviewSystem-Frontend)
 
@@ -111,6 +115,7 @@
 ---
 
 ### 🛒 Full Stack E-Commerce Platform
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/Ecommerce-backend)
 
 **React · Spring Boot · MySQL · Razorpay · Docker · JWT**
@@ -124,6 +129,7 @@
 ---
 
 ### 💼 Job Board Application
+
 [![Backend Repo](https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/JobBoardApplication-Backend)
 [![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/JobBoard-Application-Frontend)
 
@@ -201,3 +207,15 @@
 </p>
 
 ---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArunDev-07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+# 💡 Fun Fact
+
+⚡ I enjoy solving DSA problems and turning ideas into real-world Java Full Stack applications 🚀
