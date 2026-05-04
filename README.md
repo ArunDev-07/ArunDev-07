@@ -145,12 +145,13 @@
 
 ### Full Stack Developer Intern
 
-**VDart | Trichy, Tamil Nadu**
+**VDart | Trichy, Tamil Nadu**  
+**June 2025 – July 2025**
 
-* Built Podcast Streaming Platform
-* Developed REST APIs
-* Managed 100+ Episodes
-* Debugged Production Issues
+* Worked on a **podcast streaming web platform** that managed **100+ podcast episodes**, improving my understanding of real-world frontend and backend development workflows.
+* Built and integrated **8+ REST APIs** for episode listing, user interaction, and content management, ensuring smooth data flow between frontend and backend modules.
+* Collaborated with senior developers to debug issues, test APIs, enhance features, and improve the overall stability of the application.
+* Gained hands-on experience in **REST API integration, frontend-backend communication, debugging, Git workflow, and real-time project collaboration**.
 
 ---
 
