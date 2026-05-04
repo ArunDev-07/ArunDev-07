@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Arun
 
-**Java Full Stack Developer** <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966">
+**Java Full Stack Developer** <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d9cd41d6ac0dce83119c71d45008f7226975cf8b236bbf721fce86278691c048/68747470733a2f2f6d656469612e67697068792e636f6d656469612f70344e4c7733493455306964692f67697068792e676966">
 
 ### 🚀 About Me
 
@@ -20,8 +20,18 @@
 
 * Social Presence <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)
+  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ArunDev-07)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arunaakash675@gmail.com)
+  [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/Arun-G/)
   [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr.tamizhan__07/)
+
+---
+
+### 🐍 Snake Game Animation
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -33,8 +43,14 @@
 
 ### I code in
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,6 +80,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -80,7 +97,8 @@
 # 🚀 Featured Projects
 
 ### 🤖 AI Interview Preparation Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/AI-InterviewSystem)
+[![Backend Repo](https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/AI-InterviewSystem-Backend)
+[![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/AI-InterviewSystem-Frontend)
 
 **React · Spring Boot · MySQL · Spring AI · Groq API · JWT · Tailwind CSS**
 
@@ -106,7 +124,8 @@
 ---
 
 ### 💼 Job Board Application
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/JobBoardApplication-Backend)
+[![Backend Repo](https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/JobBoardApplication-Backend)
+[![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ArunDev-07/JobBoard-Application-Frontend)
 
 **React · Spring Boot · MySQL**
 
@@ -152,5 +171,33 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunDev-07&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArunDev-07&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArunDev-07&theme=github_dark" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistency-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Java_Full_Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-System_Design-purple?style=for-the-badge" />
+</p>
+
+---
+
+# ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
