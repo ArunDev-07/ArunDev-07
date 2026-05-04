@@ -207,15 +207,3 @@
 </p>
 
 ---
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArunDev-07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-# 💡 Fun Fact
-
-⚡ I enjoy solving DSA problems and turning ideas into real-world Java Full Stack applications 🚀
