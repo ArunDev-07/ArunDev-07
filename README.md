@@ -125,7 +125,7 @@
 
 **React · Spring Boot · MySQL · Spring AI · Groq API · JWT · Tailwind CSS**
 
-* Built a **full-stack AI-powered interview platform** simulating **4 interview rounds** — Aptitude, Communication, DSA, and HR — with AI-generated feedback, scoring, and optimal answers using **Groq API + Spring AI**
+* Built a **full-stack AI-powered interview platform** simulating **4 interview rounds** — Aptitude, Technical, DSA, and HR — with AI-generated feedback, scoring, and optimal answers using **Groq API + Spring AI**
 * Developed a **resume-based voice technical interview module** — upload PDF resume → AI generates personalized questions → user answers via microphone → AI evaluates and asks follow-up questions
 * Implemented **interview proctoring** with 30-minute countdown timer, tab-switch detection, back-navigation handling, and auto-submit on violations
 * Built **DSA code analysis** with time complexity, space complexity, mistake detection, and optimization suggestions
