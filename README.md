@@ -12,7 +12,9 @@
 
 ## Hi there 👋 It's me Arun
     <img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnZ2JsZ3V0Zno2aXppc2hjYXU3dWY2dzh0OGJybGthMXBmMHEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
+
 **Java Full Stack Developer + AI Integration**
+
 ### 🚀 About Me
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Focused+Engineer;AI+Integration+Learner" />
