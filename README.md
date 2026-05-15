@@ -31,7 +31,7 @@
 
 * ⚙️ I work with both **Manual Development + AI-assisted tools**
 
-* 📄 **Resume:** [**Click to View**](https://drive.google.com/file/d/175qe4L0wvOexj1LyrAib9mqNEg-u0U05/view?usp=drive_link)
+* 📄 **Resume:** [**Click to View**](https://drive.google.com/file/d/1puNgdTCiEHzm3IUUnL0HwenB1wixEgOD/view?usp=sharing)
 
 * Social Presence <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-g-87515a36b/)
