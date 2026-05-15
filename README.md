@@ -11,9 +11,7 @@
 ---
 
 ## Hi there 👋 It's me Arun
-
-<img align="right" width="350" height="260" alt="coding-gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFhaWRyNjJ2cXBueXVxdXN2dGR6YWw3ZDF5aWV0bWNsZjIzaTRqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif">
-
+    <img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnZ2JsZ3V0Zno2aXppc2hjYXU3dWY2dzh0OGJybGthMXBmMHEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
 
 **Java Full Stack Developer**
 
