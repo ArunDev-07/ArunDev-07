@@ -172,7 +172,7 @@
 # 🏆 Achievements
 
 * 🏆 Top 10 Finalist — TechSprint Hackathon 2025
-* 💻 Solved 150+ LeetCode Problems
+* 💻 Solved 225+ LeetCode Problems
 * 🚀 Built Multiple Full Stack Projects
 
 ---
